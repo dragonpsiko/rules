@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sohu
+
+# Behavior: domain
+
+payload:
+  - "+.focus-img.cn"
+  - "+.focus.cn"
+  - "+.itc.cn"
+  - "+.sohu.com"
+  - "+.sohucs.com"

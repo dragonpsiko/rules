@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sohu
+
+host-suffix, focus-img.cn, proxy
+host-suffix, focus.cn, proxy
+host-suffix, itc.cn, proxy
+host-suffix, sohu.com, proxy
+host-suffix, sohucs.com, proxy

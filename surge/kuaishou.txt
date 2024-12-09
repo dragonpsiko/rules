@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kuaishou
+
+.gifshow.com
+.inkwai.com
+.ksapisrv.com
+.kuaishou.com
+.kuaishouzt.com
+.kwaizt.com
+.kwimgs.com
+.yximgs.com
